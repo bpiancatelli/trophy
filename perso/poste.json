@@ -1,0 +1,42 @@
+{
+	"GK": [ 
+		{"Clé":"Prise de balle, reflexe"},
+		{"Important":"Vitesse, puissance, détente, habileté dans les airs, un contre un"}
+	],
+	
+	"Arrières latéraux": [ 
+		{"Clé":"Marquage, tacle, vitesse"},
+		{"Important":"Placement, puissance, tête, centres, technique"}
+	],
+
+	"Défenseurs centraux": [
+		{"Clé":"Marquage, tacle"},
+		{"Important":"Placement, puissance, tête, vitesse"}
+	],
+
+	"Milieux défensifs": [
+		{"Clé":"Activité, passe, tacle, placement, marquage, puissance"},
+		{"Important":"Endurance, vitesse, centres, technique"}
+	],
+
+	"Milieux de terrain": [
+		{"Clé":"Passe, activité"},
+		{"Important":"Technique, placement, endurance, puissance, marquage, tacle, finition, tirs de loin, tête, centres, vitesse"}
+	],
+
+	"Milieux offensifs": [
+		{"Clé":"Activité, passe, technique, tête, finition, tirs de loin"},
+		{"Important":"Puissance, vitesse, endurance, centres, placement"}
+	],
+
+	"Ailiers": [
+		{"Clé":"Vitesse, centres"},
+		{"Important":"Technique, activité, placement, passe, finition, tirs de loin, tête, puissance, endurance"}
+	],
+
+	"Attaquants": [
+		{"Clé":"Finition, tirs de loin, tête"},
+		{"Important":"Technique, puissance, passe, placement, activité, endurance, vitesse"}
+	]
+	
+}
